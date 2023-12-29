@@ -1,4 +1,4 @@
-# **Title:** TF:RPG Mod Pack for Minecraft
+# **TF:RPG Mod Pack for Minecraft**
 
 **Introduction:**
 Welcome to TF:RPG, a comprehensive  mod pack for Terra Firma Craft that transforms your gameplay into an EPIC RPG adventure. This pack is uniquely designed to foster multiplayer cooperation,
