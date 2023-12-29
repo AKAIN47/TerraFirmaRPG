@@ -1,0 +1,15 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:treasure2:pouch",
+    "item:treasure2:gold_coin"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

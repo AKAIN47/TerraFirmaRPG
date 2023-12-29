@@ -479,3 +479,150 @@
 2023-12-29 09:43:11,542 [Worker-Main3] INFO treasure2 | WellGenerator.java:172 | CHEATER! Wishing Well at coords: -196 0 -620
 2023-12-29 09:43:11,723 [Worker-Main3] WARN treasure2 | AbstractPitGenerator.java:140 | unable to locate cavern ceiling.
 2023-12-29 09:43:16,141 [Worker-Main2] WARN treasure2 | AbstractPitGenerator.java:140 | unable to locate cavern ceiling.
+2023-12-29 09:50:52,719 [Worker-Main5] WARN treasure2 | TreasureLootTableRegistry.java:172 | unable to locate file in jar -> data/treasure2/loot_tables/injects
+2023-12-29 09:51:37,565 [Render thread] INFO treasure2 | TreasureTags.java:114 | in tags updated event
+2023-12-29 09:51:37,566 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:stone_key by rarity -> COMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:leaf_key by rarity -> UNCOMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:gold_key by rarity -> SCARCE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:diamond_key by rarity -> RARE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:thiefs_lock_pick by rarity -> UNCOMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:ember_key by rarity -> SCARCE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:wood_key by rarity -> COMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:metallurgists_key by rarity -> RARE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:skeleton_key by rarity -> RARE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:jewelled_key by rarity -> EPIC
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:ruby_key by rarity -> EPIC
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:onyx_key by rarity -> SCARCE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:emerald_key by rarity -> RARE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:lightning_key by rarity -> SCARCE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:topaz_key by rarity -> SCARCE
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:sapphire_key by rarity -> EPIC
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:pilferers_lock_pick by rarity -> COMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:iron_key by rarity -> UNCOMMON
+2023-12-29 09:51:37,567 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:wither_key by rarity -> RARE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:spider_key by rarity -> SCARCE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:one_key by rarity -> MYTHICAL
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:onyx_lock by rarity -> SCARCE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:spider_lock by rarity -> SCARCE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:emerald_lock by rarity -> RARE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:ruby_lock by rarity -> EPIC
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:stone_lock by rarity -> COMMON
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:leaf_lock by rarity -> UNCOMMON
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:sapphire_lock by rarity -> EPIC
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:diamond_lock by rarity -> RARE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:ember_lock by rarity -> SCARCE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:gold_lock by rarity -> SCARCE
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:wood_lock by rarity -> COMMON
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:iron_lock by rarity -> UNCOMMON
+2023-12-29 09:51:37,568 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:topaz_lock by rarity -> SCARCE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:viking_chest by rarity -> UNCOMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:pirate_chest by rarity -> SCARCE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:safe by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:cauldron_chest by rarity -> EPIC
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crate_chest by rarity -> UNCOMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crate_chest_moldy by rarity -> COMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:dread_pirate_chest by rarity -> EPIC
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:spider_chest by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:ironbound_chest by rarity -> UNCOMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:skull_chest by rarity -> SKULL
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:milk_crate by rarity -> COMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:gold_skull_chest by rarity -> GOLD_SKULL
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:gold_strongbox by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:iron_strongbox by rarity -> SCARCE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crystal_skull_chest by rarity -> CRYSTAL_SKULL
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:wood_chest by rarity -> COMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:wither_chest by rarity -> WITHER
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:compressor_chest by rarity -> EPIC
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:cardboard_box by rarity -> COMMON
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:onyx by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:ruby by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:white_pearl by rarity -> RARE
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:sapphire by rarity -> EPIC
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:black_pearl by rarity -> EPIC
+2023-12-29 09:51:37,569 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:gold_coin by rarity -> SCARCE
+2023-12-29 09:51:37,571 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:topaz by rarity -> SCARCE
+2023-12-29 09:51:37,571 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> minecraft:diamond by rarity -> SCARCE
+2023-12-29 09:51:37,571 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> minecraft:emerald by rarity -> SCARCE
+2023-12-29 09:51:37,571 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:silver_coin by rarity -> UNCOMMON
+2023-12-29 09:51:37,571 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:copper_coin by rarity -> COMMON
+2023-12-29 09:51:38,924 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event
+2023-12-29 09:51:38,926 [Server thread] INFO treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:overworld
+2023-12-29 09:51:39,270 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:792 | biome -> 'minecraft:desert' is not registgered
+2023-12-29 09:51:39,272 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:792 | biome -> 'minecraft:desert' is not registgered
+2023-12-29 09:51:39,272 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:792 | biome -> 'minecraft:desert' is not registgered
+2023-12-29 09:51:39,612 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event
+2023-12-29 09:51:39,612 [Server thread] INFO treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_nether
+2023-12-29 09:51:39,643 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event
+2023-12-29 09:51:39,645 [Server thread] INFO treasure2 | WorldEventHandler.java:66 | In world load event for dimension minecraft:the_end
+2023-12-29 09:51:46,881 [Render thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event
+2023-12-29 09:51:47,453 [Render thread] INFO treasure2 | TreasureTags.java:114 | in tags updated event
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:stone_key by rarity -> COMMON
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:leaf_key by rarity -> UNCOMMON
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:gold_key by rarity -> SCARCE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:diamond_key by rarity -> RARE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:thiefs_lock_pick by rarity -> UNCOMMON
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:ember_key by rarity -> SCARCE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:wood_key by rarity -> COMMON
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:metallurgists_key by rarity -> RARE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:skeleton_key by rarity -> RARE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:jewelled_key by rarity -> EPIC
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:ruby_key by rarity -> EPIC
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:onyx_key by rarity -> SCARCE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:emerald_key by rarity -> RARE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:lightning_key by rarity -> SCARCE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:topaz_key by rarity -> SCARCE
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:sapphire_key by rarity -> EPIC
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:pilferers_lock_pick by rarity -> COMMON
+2023-12-29 09:51:47,454 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:iron_key by rarity -> UNCOMMON
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:wither_key by rarity -> RARE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:spider_key by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:131 | registering key -> treasure2:one_key by rarity -> MYTHICAL
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:onyx_lock by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:spider_lock by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:emerald_lock by rarity -> RARE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:ruby_lock by rarity -> EPIC
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:stone_lock by rarity -> COMMON
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:leaf_lock by rarity -> UNCOMMON
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:sapphire_lock by rarity -> EPIC
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:diamond_lock by rarity -> RARE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:ember_lock by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:gold_lock by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:wood_lock by rarity -> COMMON
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:iron_lock by rarity -> UNCOMMON
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:146 | registering lock -> treasure2:topaz_lock by rarity -> SCARCE
+2023-12-29 09:51:47,455 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:viking_chest by rarity -> UNCOMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:pirate_chest by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:safe by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:cauldron_chest by rarity -> EPIC
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crate_chest by rarity -> UNCOMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crate_chest_moldy by rarity -> COMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:dread_pirate_chest by rarity -> EPIC
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:spider_chest by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:ironbound_chest by rarity -> UNCOMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:skull_chest by rarity -> SKULL
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:milk_crate by rarity -> COMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:gold_skull_chest by rarity -> GOLD_SKULL
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:gold_strongbox by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:iron_strongbox by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:crystal_skull_chest by rarity -> CRYSTAL_SKULL
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:wood_chest by rarity -> COMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:wither_chest by rarity -> WITHER
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:compressor_chest by rarity -> EPIC
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:163 | registering chest -> treasure2:cardboard_box by rarity -> COMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:onyx by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:ruby by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:white_pearl by rarity -> RARE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:sapphire by rarity -> EPIC
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:black_pearl by rarity -> EPIC
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:gold_coin by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:topaz by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> minecraft:diamond by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> minecraft:emerald by rarity -> SCARCE
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:silver_coin by rarity -> UNCOMMON
+2023-12-29 09:51:47,457 [Render thread] INFO treasure2 | TreasureTags.java:180 | registering wishable -> treasure2:copper_coin by rarity -> COMMON
+2023-12-29 09:51:50,481 [Worker-Main1] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=EAST, xOffset=0.95, yOffset=0.3, zOffset=0.5, rotation=90.0], lockItem=null], LockState [slot=LockSlot [index=2, face=WEST, xOffset=0.05, yOffset=0.3, zOffset=0.5, rotation=-90.0], lockItem=null]]
+2023-12-29 09:51:50,483 [Worker-Main1] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.WoodChestBlockEntity@784ef3ea @ BlockPos{x=-565, y=27, z=-516}
+2023-12-29 09:51:50,484 [Worker-Main1] INFO treasure2 | SurfaceStructureFeatureGenerator.java:93 | CHEATER! COMMON chest at coords: -566 0 -516
+2023-12-29 09:52:48,753 [Render thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=EAST, xOffset=0.95, yOffset=0.3, zOffset=0.5, rotation=90.0], lockItem=null], LockState [slot=LockSlot [index=2, face=WEST, xOffset=0.05, yOffset=0.3, zOffset=0.5, rotation=-90.0], lockItem=null]]
+2023-12-29 09:52:48,753 [Render thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.WoodChestBlockEntity@7bdc44d5 @ BlockPos{x=-565, y=27, z=-516}
+2023-12-29 09:55:56,313 [DH-World Gen Thread[0]] WARN treasure2 | GeneratorUtil.java:185 | unable to create treasure chest's BlockEntity, removing chest.

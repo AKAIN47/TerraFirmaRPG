@@ -2,14 +2,14 @@
   "override_settings": false,
   "weather_effects": true,
   "weather_everywhere": false,
-  "weather_duration": 3.0,
+  "weather_duration": 1.0,
   "weather_duration_min_range": 1.0,
   "weather_duration_max_range": 1.0,
-  "weather_strength": 0.09,
+  "weather_strength": 0.5,
   "weather_strength_delay": 24000.0,
   "weather_temperature_bonus": 0.0,
   "weather_wind_bonus": 0.0,
-  "weather_name": "Windy",
+  "weather_name": "Clear",
   "weather_group": "Overworld",
   "weather_season": "Early Spring"
 }
