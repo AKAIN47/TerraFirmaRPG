@@ -627,3 +627,4 @@
 2023-12-29 09:52:48,753 [Render thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.WoodChestBlockEntity@7bdc44d5 @ BlockPos{x=-565, y=27, z=-516}
 2023-12-29 09:55:56,313 [DH-World Gen Thread[0]] WARN treasure2 | GeneratorUtil.java:185 | unable to create treasure chest's BlockEntity, removing chest.
 2023-12-29 10:26:01,389 [Worker-Main3] WARN treasure2 | TreasureLootTableRegistry.java:172 | unable to locate file in jar -> data/treasure2/loot_tables/injects
+2023-12-29 16:15:39,104 [Worker-Main6] WARN treasure2 | TreasureLootTableRegistry.java:172 | unable to locate file in jar -> data/treasure2/loot_tables/injects
