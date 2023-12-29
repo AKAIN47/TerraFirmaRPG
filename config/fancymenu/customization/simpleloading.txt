@@ -1,0 +1,55 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = profilepicture/tf-rpg_backdrop.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 228
+  width = 504
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = dcab1f1b-17bd-42bb-a482-d235b3bff5591703838176433
+  y = 189
+  height = 126
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 9340e4be-ba9b-4245-b787-62e251fed81c1703838176435
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 228
+  width = 504
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 6e89f2f7-fe77-4e04-aa81-fa2a79fca2ec1703838176435
+  y = 415
+  height = 10
+}
+

@@ -1,0 +1,15 @@
+{
+  "override_settings": false,
+  "weather_effects": true,
+  "weather_everywhere": false,
+  "weather_duration": 3.0,
+  "weather_duration_min_range": 1.0,
+  "weather_duration_max_range": 1.0,
+  "weather_strength": 0.31,
+  "weather_strength_delay": 16800.0,
+  "weather_temperature_bonus": 0.0,
+  "weather_wind_bonus": 0.0,
+  "weather_name": "Cloudy",
+  "weather_group": "Overworld",
+  "weather_season": "Early Spring"
+}

@@ -61,5 +61,11 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "lootr": {
+    "info": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }
