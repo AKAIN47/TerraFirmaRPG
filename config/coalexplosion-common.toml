@@ -1,0 +1,12 @@
+
+[General]
+	#The range of the explosion of a coal block.
+	#Range: 0.0 ~ 256.0
+	explosionRange = 5.0
+	#Whether an exploding coal block should cause fire.
+	causeFire = false
+	#A list of extra configured items that can cause coal to explode
+	configuredIgniters = []
+	#A list of extra configured blocks that igniters can cause to explode
+	configuredBlocks = []
+

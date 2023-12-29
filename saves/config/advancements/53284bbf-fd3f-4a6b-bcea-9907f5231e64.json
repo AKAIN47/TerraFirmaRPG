@@ -248,12 +248,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/hemlock": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -317,12 +311,6 @@
   "tfcastikorcarts:crafting/supply_cart/kapok": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2023-12-29 09:55:50 +0000"
     },
     "done": true
   },
@@ -434,12 +422,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/angelim": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -449,12 +431,6 @@
   "tfcastikorcarts:crafting/plow/fever": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
     },
     "done": true
   },
@@ -503,12 +479,6 @@
   "tfcastikorcarts:crafting/supply_cart/white_elm": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
     },
     "done": true
   },
@@ -740,18 +710,6 @@
     },
     "done": true
   },
-  "tfc:crafting/wattle": {
-    "criteria": {
-      "has_item": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/plow/mahoe": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -812,12 +770,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/plow/hemlock": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -842,12 +794,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/supply_cart/palm": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -857,12 +803,6 @@
   "tfcastikorcarts:crafting/plow/kauri": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2023-12-29 09:55:50 +0000"
     },
     "done": true
   },
@@ -1010,12 +950,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/fever": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1025,12 +959,6 @@
   "tfcastikorcarts:crafting/supply_cart/jabuticabeira": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
     },
     "done": true
   },
@@ -1148,12 +1076,6 @@
     },
     "done": true
   },
-  "firmalife:story/root": {
-    "criteria": {
-      "in_game_condition": "2023-12-29 09:51:53 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/bald_cypress": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1181,12 +1103,6 @@
   "tfcastikorcarts:crafting/supply_cart/maple": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2023-12-29 09:55:50 +0000"
     },
     "done": true
   },
@@ -1346,12 +1262,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2023-12-29 09:53:23 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/white_cedar": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1394,12 +1304,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/copper_ingot_from_broad_axe": {
-    "criteria": {
-      "has_weapon": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/supply_cart/white_ipe": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1421,12 +1325,6 @@
   "tfcastikorcarts:crafting/animal_cart/rowan": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2023-12-29 09:54:32 +0000"
     },
     "done": true
   },
@@ -1496,12 +1394,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/purple_ipe": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1532,18 +1424,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
-    },
-    "done": true
-  },
-  "tfc:story/logging": {
-    "criteria": {
-      "logs": "2023-12-29 09:55:50 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/supply_cart/acacia": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1553,12 +1433,6 @@
   "tfcastikorcarts:crafting/plow/spruce": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
     },
     "done": true
   },
@@ -1640,12 +1514,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/supply_cart/oak": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1712,12 +1580,6 @@
     },
     "done": true
   },
-  "tfc:story/root": {
-    "criteria": {
-      "in_game_condition": "2023-12-29 09:51:53 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/animal_cart/kapok": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
@@ -1775,12 +1637,6 @@
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2023-12-29 09:55:50 +0000"
     },
     "done": true
   },
@@ -1843,12 +1699,6 @@
       "has_wheel": "2023-12-29 09:51:47 +0000"
     },
     "done": true
-  },
-  "tfc:world/metallurgist": {
-    "criteria": {
-      "wrought_iron": "2023-12-29 09:54:32 +0000"
-    },
-    "done": false
   },
   "tfcastikorcarts:crafting/plow/african_padauk": {
     "criteria": {
@@ -2090,21 +1940,250 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-12-29 09:52:54 +0000"
-    },
-    "done": true
-  },
   "tfcastikorcarts:crafting/supply_cart/mountain_ash": {
     "criteria": {
       "has_wheel": "2023-12-29 09:51:47 +0000"
     },
     "done": true
   },
+  "firmalife:story/root": {
+    "criteria": {
+      "in_game_condition": "2023-12-29 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2023-12-29 09:51:53 +0000"
+    },
+    "done": true
+  },
   "tfc:world/root": {
     "criteria": {
       "in_game_condition": "2023-12-29 09:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-29 09:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-12-29 09:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-12-29 09:54:32 +0000"
+    },
+    "done": true
+  },
+  "tfc:world/metallurgist": {
+    "criteria": {
+      "wrought_iron": "2023-12-29 09:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "tfc:crafting/wattle": {
+    "criteria": {
+      "has_item": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_ingot_from_broad_axe": {
+    "criteria": {
+      "has_weapon": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "tfc:story/logging": {
+    "criteria": {
+      "logs": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2023-12-29 09:55:50 +0000"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2023-12-29 13:04:50 +0000",
+      "has_carrot": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_diamond": {
+    "criteria": {
+      "hasBone": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2023-12-29 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_storage": {
+    "criteria": {
+      "has_l": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2023-12-29 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chiseled_printer": {
+    "criteria": {
+      "has_l": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2023-12-29 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_b": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_iron": {
+    "criteria": {
+      "hasBone": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2023-12-29 13:04:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-12-29 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_gold": {
+    "criteria": {
+      "hasBone": "2023-12-29 13:04:50 +0000"
     },
     "done": true
   },
