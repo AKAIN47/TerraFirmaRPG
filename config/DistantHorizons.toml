@@ -352,7 +352,7 @@ _version = 2
 				radius = 4.0
 				# Enable Screen Space Ambient Occlusion
 				# 
-				enabled = true
+				enabled = false
 
 			[client.advanced.graphics.advancedGraphics]
 				# What the value should vanilla Minecraft's texture LodBias be? 
@@ -443,7 +443,7 @@ _version = 2
 				# Lowest Quality: CHUNK
 				# Highest Quality: BLOCK
 				# 
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "TWO_BLOCKS"
 				# The radius of the mod's render distance. (measured in chunks)
 				# 
 				lodChunkRenderDistanceRadius = 128
@@ -457,7 +457,7 @@ _version = 2
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
 				# 
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "LOWEST"
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
@@ -465,7 +465,7 @@ _version = 2
 				# DISABLED: LODs will be opaque. 
 				# 
 				# 
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
 				# Higher options will make the world more accurate, butwill increase memory and GPU usage. 
@@ -473,7 +473,7 @@ _version = 2
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
 				# 
-				verticalQuality = "MEDIUM"
+				verticalQuality = "HEIGHT_MAP"
 				# What blocks shouldn't be rendered as LODs? 
 				# 
 				# NONE: Represent all blocks in the LODs 
