@@ -1,0 +1,10 @@
+
+#General
+[general]
+	#Enables ingame rewards on first spawn for Patreons
+	patreon_rewards = true
+	#Should mech suits be enchantable at the enchantment table?
+	is_table_enchantable = false
+	#Should mech suits be enchantable with enchantment books?
+	is_book_enchantable = false
+

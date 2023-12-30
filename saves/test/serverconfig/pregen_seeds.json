@@ -1,0 +1,222 @@
+{
+	"level_seeds": [
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_b",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:vicino_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:normalplanet",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_asteroid_belt",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:vicino",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_c_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_d",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_c",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_b_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_asteroid_belt_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_d_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -8205458968631248612
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_b",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:vicino_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:normalplanet",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_asteroid_belt",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:vicino",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_c_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_d",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_c",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_b_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_asteroid_belt_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra_proxima_plus:proxima_d_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -8205458968631248612
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -8205458968631248612
+		}
+	]
+}

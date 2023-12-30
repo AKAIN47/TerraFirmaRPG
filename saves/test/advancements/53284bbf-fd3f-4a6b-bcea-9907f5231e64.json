@@ -1,0 +1,2338 @@
+{
+  "tfcastikorcarts:crafting/animal_cart/iroko": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/angelim": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/quince": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/yew": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/joshua": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/logwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/rosewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/sycamore": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/birch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/greenheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/greenheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/red_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/holly": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/red_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/beech": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/mahogany": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/kapok": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/messmate": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/chestnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/ginkgo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/pine": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/marblewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/red_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-30 03:27:53 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/angelim": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/black_willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-12-30 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/rowan": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/poplar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2023-12-30 03:16:56 +0000",
+      "has_carrot": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/rosewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/larch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/hazel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/sequoia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/whitebeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/cocobolo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/joshua": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/mahoe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/aspen": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/laurel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/blackwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/hemlock": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/teak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/kauri": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/beech": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/red_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/marblewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/kauri": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/juniper": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/mulberry": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/redwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/rubber_fig": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/sweetgum": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/mahoe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/marblewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/zebrawood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/teak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/brazilwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "plateau": "2023-12-30 03:17:02 +0000",
+      "badlands": "2023-12-30 03:19:09 +0000",
+      "river": "2023-12-30 03:21:56 +0000"
+    },
+    "done": false
+  },
+  "tfcastikorcarts:crafting/supply_cart/persimmon": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/hornbeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/sweetgum": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/syzygium": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "firmalife:story/root": {
+    "criteria": {
+      "in_game_condition": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/pine": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/ginkgo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/ebony": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/sycamore": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/laurel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/buxus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/mahoe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/whitebeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/maclura": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/kauri": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/pine": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/chestnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/red_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/persimmon": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/acacia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/teak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/snow_gum_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/limba": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/hickory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/angelim": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/syzygium": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/greenheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/laurel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/kapok": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/black_walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/african_padauk": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/sweetgum": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/butternut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/beech": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/black_walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/maclura": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/joshua": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/iroko": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/holly": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/red_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-12-30 03:16:56 +0000",
+      "inv_changed-diamond": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/redwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/aspen": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/acacia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/mulberry": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/butternut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/baobab": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/common_oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/wenge": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/logwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/zebrawood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/argyle_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/sycamore": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/alder": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/hawthorn": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/baobab": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/larch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/alder": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/medlar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/hickory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/pear": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/cocobolo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/acacia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/sequoia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/hemlock": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/ironwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/yew": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/red_cedar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/sorb": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/blackwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/persimmon": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/locust": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2023-12-30 03:16:56 +0000",
+      "has_fillet_knife": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/sequoia": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/sorb": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2023-12-30 03:16:56 +0000",
+      "has_fillet_knife": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/fever": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/hickory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/black_walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/juniper": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/blackwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/wenge": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/birch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/cocobolo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas_new": {
+    "criteria": {
+      "has_compass": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/sloe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/locust": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/maple": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/yew": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/ginkgo": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/ebony": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/maple": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2023-12-30 03:16:56 +0000",
+      "has_wct": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2023-12-30 03:16:56 +0000",
+      "has_wct": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/purpleheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/logwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/mulberry": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/buxus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/baobab": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/hornbeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2023-12-30 03:16:56 +0000",
+      "has_wpt": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/limba": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2023-12-30 03:16:55 +0000",
+      "has_axe": "2023-12-30 03:16:55 +0000",
+      "has_helmet": "2023-12-30 03:16:56 +0000",
+      "has_fishing_rod": "2023-12-30 03:16:56 +0000",
+      "has_bow": "2023-12-30 03:16:56 +0000",
+      "has_chestplate": "2023-12-30 03:16:56 +0000",
+      "has_sword": "2023-12-30 03:16:56 +0000",
+      "has_fillet_knife": "2023-12-30 03:16:56 +0000",
+      "has_shovel": "2023-12-30 03:16:56 +0000",
+      "has_hoe": "2023-12-30 03:16:56 +0000",
+      "has_boots": "2023-12-30 03:16:56 +0000",
+      "has_pickaxe": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/common_oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/walnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/red_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/palm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2023-12-30 03:16:56 +0000",
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/black_willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/rowan": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/juniper": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/medlar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/hemlock": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/ghaf": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/yellow_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/hazel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/syzygium": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2023-12-30 03:16:56 +0000",
+      "has_wpt": "2023-12-30 03:16:56 +0000",
+      "has_wct": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/fever": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/jabuticabeira": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/ironwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/poplar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/limba": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/iroko": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/locust": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/holly": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/common_oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/bald_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/messmate": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/chestnut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/maple": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/black_willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/hawthorn": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/red_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/rosewood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/brazilwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/redwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/birch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/oak": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/purpleheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/pear": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/nordmann_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/aspen": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/zebrawood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/yellow_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/medlar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/sloe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/palm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/norway_spruce": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/pink_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/white_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/mahogany": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/rowan": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/ghaf": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/african_padauk": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/ghaf": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/white_mangrove": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:55 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/messmate": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/alder": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/butternut": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/pink_cherry_blossom": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/quince": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/ironwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/palm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas": {
+    "criteria": {
+      "has_compass": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/purple_ipe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/hornbeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/poplar": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/brazilwood": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/white_elm": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/purple_jacaranda": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/pear": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2023-12-30 03:16:56 +0000",
+      "has_fillet_knife": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/kapok": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/larch": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/whitebeam": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/african_padauk": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/rainbow_eucalyptus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/willow": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/hazel": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/yellow_meranti": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/fever": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/buxus": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/purpleheart": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/mahogany": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/wenge": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/quince": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/ebony": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/douglas_fir": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/sloe": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2023-12-30 03:16:56 +0000",
+      "has_fillet_knife": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/maclura": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/animal_cart/pink_ivory": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/plow/red_cypress": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/hawthorn": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/sorb": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfcastikorcarts:crafting/supply_cart/mountain_ash": {
+    "criteria": {
+      "has_wheel": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2023-12-30 03:16:56 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

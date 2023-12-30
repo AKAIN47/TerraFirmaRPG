@@ -1,0 +1,101 @@
+
+#General Configs
+[general]
+	all_players_are_allied = true
+	start_items = true
+	scale_mob_to_nearby_player_lvl = true
+	loot_announcements = true
+	require_team_for_dungeons = true
+	dont_sync_ambient_mob_data = true
+	maps_dont_drop_in_maps = true
+	log_errors = true
+	stop_error_spam = true
+	#Range: > 0
+	min_level_map_drops = 10
+	#Range: > 0
+	LEVEL_DISTANCE_PENALTY_LEEWAY = 2
+	#Range: 0 ~ 100
+	PERC_OFFHAND_WEP_STAT = 25
+	#Range: 0.0 ~ 1000.0
+	regen_hunger_cost = 10.0
+	#Range: 0.0 ~ 1.0
+	death_exp_penalty = 0.1
+	#Range: 0.0 ~ 1.0
+	death_exp_debt = 0.1
+	#Range: 0.0 ~ 100.0
+	max_death_exp_debt_multi = 1.0
+	#Range: 0.0 ~ 1000.0
+	exp_gain_multi = 1.0
+	#Range: 0.0 ~ 1000.0
+	party_radius = 200.0
+	#Range: 0.0 ~ 1.0
+	lvl_distance_penalty_per_level = 0.1
+	#Range: 0.0 ~ 1.0
+	min_loot_chance = 0.2
+	#Range: 0.0 ~ 1000.0
+	extra_mob_stats_per_lvl = 0.02
+	#Range: 0.0 ~ 1000.0
+	vanilla_mob_dmg_as_exile_dmg = 1.0
+	#Range: 0.0 ~ 1000.0
+	pvp_dmg_multi = 1.0
+	#Range: 0.0 ~ 100000.0
+	max_team_distance = 75.0
+	#Range: 0.0 ~ 10.0
+	in_combat_regen_multi = 0.5
+	#Range: 0.0 ~ 1.0
+	COMBAT_TO_PROFESSION_RESTED_XP_GENERATION = 0.5
+	#Range: 0.0 ~ 1.0
+	PROFESSION_TO_COMBAT_RESTED_XP_GENERATION = 0.25
+	#Range: 0.0 ~ 10000.0
+	favor_death_loss = 50.0
+	#Range: 0.0 ~ 10000.0
+	favor_chest_gain = 1.0
+	#Range: 0.0 ~ 10000.0
+	favor_per_second = 0.016666666666666666
+	#Range: 0.0 ~ 1000.0
+	gear_drop_rate = 7.0
+	#Range: 0.0 ~ 1000.0
+	soul_drop_rate = 0.3
+	#Range: 0.0 ~ 1000.0
+	map_drop_rate = 0.5
+	#Range: 0.0 ~ 1000.0
+	gem_drop_rate = 1.0
+	#Range: 0.0 ~ 1000.0
+	skill_gem_drop_rate = 3.0
+	#Range: 0.0 ~ 1000.0
+	support_gem_drop_rate = 2.0
+	#Range: 0.0 ~ 1000.0
+	aura_gem_drop_rate = 1.0
+	#Range: 0.0 ~ 1000.0
+	rune_drop_rate = 0.5
+	#Range: 0.0 ~ 1000.0
+	currency_drop_rate = 0.5
+	#Range: 0.0 ~ 1000.0
+	jewel_drop_rate = 0.25
+	#Range: 0.0 ~ 1000.0
+	loot_chest_drop_rate = 0.1
+	#Range: 0.0 ~ 100.0
+	MAP_MECHANIC_CHANCE = 33.0
+	#Range: 0.0 ~ 1000.0
+	block_cost = 0.25
+	#Range: 0 ~ 20
+	pack_mob_min = 3
+	#Range: 0 ~ 20
+	pack_mob_max = 6
+	#Range: 1 ~ 100
+	MIN_MAP_ROOMS = 12
+	#Range: 1 ~ 100
+	MAX_MAP_ROOMS = 20
+	#Range: 0 ~ 20
+	mob_min = 1
+	#Range: 0 ~ 20
+	mob_max = 2
+	#Range: 0 ~ 10000
+	MAX_ADDITIONAL_TALENT_POINTS = 30
+	#Range: 0.0 ~ 100.0
+	UNARMED_ENERGY_COST = 5.0
+	#This is for modded gear that can't be automatically recognized by the mod. If there's say a weapon like a staff in another mod, but this mod doesn't recognize it. Put it here. The usage is: modid:path:gear_slot_id. Example: minecraft:diamond_sword:sword
+	gear_compatibility = ["minecraft:iron_sword:sword"]
+	#Stops items from being used in maps/adventuremaps. This is used for items that allow cheesing mechanics like teleporation items mostly.
+	disabled_items_in_maps = ["minecraft:ender_pearl", "minecraft:chorus_fruit"]
+
