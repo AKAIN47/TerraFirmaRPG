@@ -1,0 +1,222 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = Terra Firma: R.P.G
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = cf_pack_assets/Pack/mainmenue.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -149
+  action = movebutton
+  y = 116
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 299
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-left
+  x = 612
+  action = movebutton
+  y = 363
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = top-left
+  x = 429
+  action = movebutton
+  y = 436
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-centered
+  x = 53
+  action = movebutton
+  y = 408
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -49
+  action = movebutton
+  y = -57
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 331
+  action = movebutton
+  y = 363
+}
+
+customization {
+  identifier = %id=604322%
+  orientation = top-centered
+  x = -10
+  action = movebutton
+  y = 438
+}
+
+customization {
+  identifier = %id=604322%
+  width = 20
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 380
+  action = movebutton
+  y = 362
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -149
+  action = movebutton
+  y = 138
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -48
+  action = movebutton
+  y = 138
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = top-left
+  x = 505
+  action = movebutton
+  y = 437
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 42321dd7-070a-434b-a2c9-196c926ec88e1703928773687
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 6b886426-5d87-4878-9cdd-50289339aba51703928773700
+  y = 498
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = af02a34c-7016-4fd5-9cbc-364e0332c5ad1703928773700
+  y = 520
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 481c0cf8-13a9-48ed-8011-dacc371ae9221703928773701
+  y = 232
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 1ac396d2-0ee8-4d6b-999c-23f5b4b5ee2d1703928773701
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 257ee1ef-436d-4f74-9c08-f01d881ed10f1703928773701
+  y = 0
+  height = 30
+}
+
+customization {
+  delayappearanceseconds = 3.0
+  slim = false
+  auto_skin = false
+  scale = 30
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = a2b49350-062a-41de-9cb5-4f07d4d25acd1703930806812
+  playername = Silver_VANGUARD
+  delayappearance = true
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 54
+  orientation = mid-centered
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/955448dbfd34aa2c423f1d41b3002b4c8499078efc595081c09fb44a91b394bb
+  crouching = false
+  x = -9
+  width = 18
+  parrot_left_shoulder = false
+  y = 21
+  parrot = false
+  delayappearanceeverytime = false
+}
+

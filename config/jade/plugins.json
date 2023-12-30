@@ -119,6 +119,20 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "create_mechanical_spawner": {
+    "spawner_data": true
+  },
+  "create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -127,10 +141,16 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "mcjtylib": {
+    "jadeaddons": true
+  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
     "spawner": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "lootr": {
     "info": true

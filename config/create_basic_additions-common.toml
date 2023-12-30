@@ -1,0 +1,17 @@
+
+[stressValues]
+
+	#.
+	#Fine tune the kinetic stats of individual components
+	[stressValues.v2]
+
+		#.
+		#.
+		#[in Stress Units]
+		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+		[stressValues.v2.impact]
+			basic_gearshift = 0.0
+			brass_gearbox = 0.0
+			brass_gearshift = 0.0
+			basic_brass_gearshift = 0.0
+

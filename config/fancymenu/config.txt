@@ -32,9 +32,9 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '';
+S:customwindowtitle = 'Terra Firma: R.P.G';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'false';
+B:customwindowicon = 'true';
 
 
 ##[world_loading_screen]
@@ -55,9 +55,9 @@ B:show_world_icons = 'true';
 
 ##[layouteditor]
 
-I:gridsize = '10';
+I:gridsize = '5';
 B:editordeleteconfirmation = 'true';
-B:showgrid = 'false';
+B:showgrid = 'true';
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
 B:showvanillamovewarning = 'true';
 
