@@ -1,8 +1,0 @@
-[16:15:20] [INIT] KubeJS 2001.6.4-build.114; MC 2001 forge
-[16:15:20] [INIT] Loaded plugins:
-[16:15:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:15:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:15:20] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[16:15:20] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[16:15:20] [INFO] Loaded 0/0 KubeJS client scripts in 0.039 s with 0 errors and 0 warnings
-[16:15:33] [INFO] Client resource reload complete!

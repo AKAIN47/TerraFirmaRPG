@@ -4,3 +4,7 @@ minecraftinstance.json
 usercache.json
 
 usernamecache.json
+
+crash-reports/
+
+logs/
